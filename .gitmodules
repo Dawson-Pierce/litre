@@ -1,0 +1,3 @@
+[submodule "brew-lab"]
+	path = brew-lab
+	url = https://github.com/Dawson-Pierce/brew-lab.git
