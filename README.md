@@ -1,2 +1,2 @@
-# LITRE: Layer and Interface Tracking on Radar Echograms
+# LITRE: Layer and Interface Trackers for Radar Echograms
 
